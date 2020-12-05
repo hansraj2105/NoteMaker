@@ -23,12 +23,6 @@
 			<version>5.1.48</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/com.heroku.sdk/heroku-deploy -->
-<dependency>
-    <groupId>com.heroku.sdk</groupId>
-    <artifactId>heroku-deploy</artifactId>
-    <version>3.0.3</version>
-</dependency>
-		
 		
     <dependency>
       <groupId>junit</groupId>
